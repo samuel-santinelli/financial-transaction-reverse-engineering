@@ -1,6 +1,6 @@
 # Financial Transaction Reverse Engineering and Fraud Detection
 
-<img width="1536" height="1024" alt="ChatGPT Image 17 de jul  de 2025, 07_44_10" src="https://github.com/user-attachments/assets/ef93874a-c3c0-419f-bf28-0d2282315a15" />
+<img width="1536" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/ef93874a-c3c0-419f-bf28-0d2282315a15" />
 
 ## Project Overview
 
@@ -64,8 +64,8 @@ The application will start on `http://localhost:8081`.
 
 Below is a high-level architecture diagram illustrating the main components and their interactions in the system.
 
-<img width="3840" height="3204" alt="Untitled diagram _ Mermaid Chart-2025-07-15-110617" src="https://github.com/user-attachments/assets/4811ec23-fd5b-4024-a40a-6148411574db" />
-<img width="1536" height="1024" alt="ChatGPT Image 17 de jul  de 2025, 08_30_07" src="https://github.com/user-attachments/assets/adae4909-4c3d-4763-80b0-a070baa57485" />
+<img width="3840" height="3204" alt="Diagram" src="https://github.com/user-attachments/assets/4811ec23-fd5b-4024-a40a-6148411574db" />
+<img width="1536" height="1024" alt="Diagram" src="https://github.com/user-attachments/assets/adae4909-4c3d-4763-80b0-a070baa57485" />
 
 
 ---
