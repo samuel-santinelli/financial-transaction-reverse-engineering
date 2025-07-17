@@ -70,9 +70,6 @@ Below is a high-level architecture diagram illustrating the main components and 
 
 ---
 
-## Contributing
-
-Contributions are welcome. Please fork the repository and submit pull requests.
 
 ## License
 
